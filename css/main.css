@@ -6,8 +6,7 @@
   animation: move 3s infinite alternate;
 }
 
-
-  @keyframes move {
+@keyframes move {
 
   0% {
     transform: translateX(-10px);
